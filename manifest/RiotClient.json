@@ -1,0 +1,369 @@
+{
+  "Manifest ID": "C5FDF0CF928F5FE4",
+  "languages": [],
+  "files": [{
+    "path": "Resources/icon.ico",
+    "file_size": "285478 bytes",
+    "languages": []
+  }, {
+    "path": "RiotClientCrashHandler.exe",
+    "file_size": "1947648 bytes",
+    "languages": []
+  }, {
+    "path": "RiotClientFoundation.dll",
+    "file_size": "9705856 bytes",
+    "languages": []
+  }, {
+    "path": "RiotClientServices.exe",
+    "file_size": "69669984 bytes",
+    "languages": []
+  }, {
+    "path": "RiotGamesApi.dll",
+    "file_size": "32301712 bytes",
+    "languages": []
+  }, {
+    "path": "UX/GPUCache/data_0",
+    "file_size": "8192 bytes",
+    "languages": []
+  }, {
+    "path": "UX/GPUCache/data_1",
+    "file_size": "270336 bytes",
+    "languages": []
+  }, {
+    "path": "UX/GPUCache/data_2",
+    "file_size": "8192 bytes",
+    "languages": []
+  }, {
+    "path": "UX/GPUCache/data_3",
+    "file_size": "8192 bytes",
+    "languages": []
+  }, {
+    "path": "UX/GPUCache/index",
+    "file_size": "262512 bytes",
+    "languages": []
+  }, {
+    "path": "UX/Plugins/plugin-manifest.json",
+    "file_size": "284 bytes",
+    "languages": []
+  }, {
+    "path": "UX/Plugins/rcp-fe-keystone-react/assets.wad",
+    "file_size": "115189598 bytes",
+    "languages": []
+  }, {
+    "path": "UX/Plugins/rcp-fe-keystone-react/description.json",
+    "file_size": "285 bytes",
+    "languages": []
+  }, {
+    "path": "UX/Plugins/rcp-fe-plugin-runner/assets.wad",
+    "file_size": "93124 bytes",
+    "languages": []
+  }, {
+    "path": "UX/Plugins/rcp-fe-plugin-runner/description.json",
+    "file_size": "293 bytes",
+    "languages": []
+  }, {
+    "path": "UX/RiotClientUx.exe",
+    "file_size": "5564584 bytes",
+    "languages": []
+  }, {
+    "path": "UX/RiotClientUxRender.exe",
+    "file_size": "4595576 bytes",
+    "languages": []
+  }, {
+    "path": "UX/cef.pak",
+    "file_size": "3677354 bytes",
+    "languages": []
+  }, {
+    "path": "UX/cef_100_percent.pak",
+    "file_size": "742152 bytes",
+    "languages": []
+  }, {
+    "path": "UX/cef_200_percent.pak",
+    "file_size": "872802 bytes",
+    "languages": []
+  }, {
+    "path": "UX/cef_extensions.pak",
+    "file_size": "1833343 bytes",
+    "languages": []
+  }, {
+    "path": "UX/chrome_elf.dll",
+    "file_size": "707072 bytes",
+    "languages": []
+  }, {
+    "path": "UX/d3dcompiler_47.dll",
+    "file_size": "3705472 bytes",
+    "languages": []
+  }, {
+    "path": "UX/devtools_resources.pak",
+    "file_size": "6014631 bytes",
+    "languages": []
+  }, {
+    "path": "UX/ffmpeg.dll",
+    "file_size": "1231872 bytes",
+    "languages": []
+  }, {
+    "path": "UX/icudtl.dat",
+    "file_size": "10326064 bytes",
+    "languages": []
+  }, {
+    "path": "UX/libEGL.dll",
+    "file_size": "110592 bytes",
+    "languages": []
+  }, {
+    "path": "UX/libGLESv2.dll",
+    "file_size": "4717056 bytes",
+    "languages": []
+  }, {
+    "path": "UX/libcef.dll",
+    "file_size": "93489664 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/am.pak",
+    "file_size": "314448 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ar.pak",
+    "file_size": "315053 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/bg.pak",
+    "file_size": "362060 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/bn.pak",
+    "file_size": "467103 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ca.pak",
+    "file_size": "224643 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/cs.pak",
+    "file_size": "228150 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/da.pak",
+    "file_size": "204754 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/de.pak",
+    "file_size": "223214 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/el.pak",
+    "file_size": "396704 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/en-GB.pak",
+    "file_size": "183659 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/en-US.pak",
+    "file_size": "185090 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/es-419.pak",
+    "file_size": "220764 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/es.pak",
+    "file_size": "224140 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/et.pak",
+    "file_size": "199921 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/fa.pak",
+    "file_size": "317594 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/fi.pak",
+    "file_size": "206125 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/fil.pak",
+    "file_size": "226979 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/fr.pak",
+    "file_size": "239622 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/gu.pak",
+    "file_size": "444053 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/he.pak",
+    "file_size": "268510 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/hi.pak",
+    "file_size": "456292 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/hr.pak",
+    "file_size": "216276 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/hu.pak",
+    "file_size": "235681 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/id.pak",
+    "file_size": "198224 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/it.pak",
+    "file_size": "216353 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ja.pak",
+    "file_size": "268987 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/kn.pak",
+    "file_size": "517629 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ko.pak",
+    "file_size": "225809 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/lt.pak",
+    "file_size": "232209 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/lv.pak",
+    "file_size": "231033 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ml.pak",
+    "file_size": "556723 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/mr.pak",
+    "file_size": "450943 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ms.pak",
+    "file_size": "204927 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/nb.pak",
+    "file_size": "201815 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/nl.pak",
+    "file_size": "210980 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/pl.pak",
+    "file_size": "224402 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/pt-BR.pak",
+    "file_size": "217734 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/pt-PT.pak",
+    "file_size": "219947 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ro.pak",
+    "file_size": "225389 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ru.pak",
+    "file_size": "350023 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/sk.pak",
+    "file_size": "231395 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/sl.pak",
+    "file_size": "217553 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/sr.pak",
+    "file_size": "338848 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/sv.pak",
+    "file_size": "203076 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/sw.pak",
+    "file_size": "207909 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/ta.pak",
+    "file_size": "525312 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/te.pak",
+    "file_size": "498318 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/th.pak",
+    "file_size": "423628 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/tr.pak",
+    "file_size": "217133 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/uk.pak",
+    "file_size": "354530 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/vi.pak",
+    "file_size": "251195 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/zh-CN.pak",
+    "file_size": "187627 bytes",
+    "languages": []
+  }, {
+    "path": "UX/locales/zh-TW.pak",
+    "file_size": "187941 bytes",
+    "languages": []
+  }, {
+    "path": "UX/natives_blob.bin",
+    "file_size": "83217 bytes",
+    "languages": []
+  }, {
+    "path": "UX/snapshot_blob.bin",
+    "file_size": "285908 bytes",
+    "languages": []
+  }, {
+    "path": "UX/swiftshader/libEGL.dll",
+    "file_size": "112640 bytes",
+    "languages": []
+  }, {
+    "path": "UX/swiftshader/libGLESv2.dll",
+    "file_size": "2249216 bytes",
+    "languages": []
+  }, {
+    "path": "UX/v8_context_snapshot.bin",
+    "file_size": "609888 bytes",
+    "languages": []
+  }, {
+    "path": "UX/views_mus_resources.pak",
+    "file_size": "96116 bytes",
+    "languages": []
+  }, {
+    "path": "system.yaml",
+    "file_size": "16502 bytes",
+    "languages": []
+  }, {
+    "path": "vgrl.dll",
+    "file_size": "3518336 bytes",
+    "languages": []
+  }, {
+    "path": "vivoxsdk.dll",
+    "file_size": "11164248 bytes",
+    "languages": []
+  }]
+}
