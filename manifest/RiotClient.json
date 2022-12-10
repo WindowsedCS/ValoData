@@ -1,5 +1,5 @@
 {
-  "Manifest ID": "F04C788652091DF1",
+  "Manifest ID": "64B4884E45E03428",
   "languages": [],
   "files": [{
     "path": "Microsoft.Gaming.XboxApp.Extensions.winmd",
@@ -15,11 +15,11 @@
     "languages": []
   }, {
     "path": "RiotClientFoundation.dll",
-    "file_size": "10260088 bytes",
+    "file_size": "10260632 bytes",
     "languages": []
   }, {
     "path": "RiotClientServices.exe",
-    "file_size": "69728824 bytes",
+    "file_size": "69729328 bytes",
     "languages": []
   }, {
     "path": "RiotGamesApi.dll",
@@ -31,7 +31,7 @@
     "languages": []
   }, {
     "path": "UX/Plugins/rcp-fe-keystone-react/assets.wad",
-    "file_size": "116048171 bytes",
+    "file_size": "116048158 bytes",
     "languages": []
   }, {
     "path": "UX/Plugins/rcp-fe-keystone-react/description.json",
