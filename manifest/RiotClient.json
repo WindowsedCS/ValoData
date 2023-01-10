@@ -1,5 +1,5 @@
 {
-  "Manifest ID": "F3FAAAA38C7C372F",
+  "Manifest ID": "9636DB6D695A8754",
   "languages": [],
   "files": [{
     "path": "Microsoft.Gaming.XboxApp.Extensions.winmd",
@@ -15,15 +15,15 @@
     "languages": []
   }, {
     "path": "RiotClientFoundation.dll",
-    "file_size": "10261152 bytes",
+    "file_size": "10261952 bytes",
     "languages": []
   }, {
     "path": "RiotClientServices.exe",
-    "file_size": "69729336 bytes",
+    "file_size": "69730136 bytes",
     "languages": []
   }, {
     "path": "RiotGamesApi.dll",
-    "file_size": "32303288 bytes",
+    "file_size": "32304088 bytes",
     "languages": []
   }, {
     "path": "UX/Plugins/plugin-manifest.json",
@@ -31,7 +31,7 @@
     "languages": []
   }, {
     "path": "UX/Plugins/rcp-fe-keystone-react/assets.wad",
-    "file_size": "116045823 bytes",
+    "file_size": "116045829 bytes",
     "languages": []
   }, {
     "path": "UX/Plugins/rcp-fe-keystone-react/description.json",
@@ -47,11 +47,11 @@
     "languages": []
   }, {
     "path": "UX/RiotClientUx.exe",
-    "file_size": "5580568 bytes",
+    "file_size": "5581368 bytes",
     "languages": []
   }, {
     "path": "UX/RiotClientUxRender.exe",
-    "file_size": "4611080 bytes",
+    "file_size": "4611880 bytes",
     "languages": []
   }, {
     "path": "UX/cef.pak",
