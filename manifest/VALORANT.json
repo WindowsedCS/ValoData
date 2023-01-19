@@ -1,5 +1,5 @@
 {
-  "Manifest ID": "4C511179FDC9B411",
+  "Manifest ID": "D51FE09FECA62E1A",
   "languages": [
     {"ID": 1, "name": "krrating"},
     {"ID": 2, "name": "mature"},
@@ -279,7 +279,7 @@
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll",
-    "file_size": "3967872 bytes",
+    "file_size": "3967880 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll",
@@ -311,7 +311,7 @@
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.dll",
-    "file_size": "2038200 bytes",
+    "file_size": "2038192 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll",
@@ -323,7 +323,7 @@
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll",
-    "file_size": "279064 bytes",
+    "file_size": "279056 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll",
@@ -335,11 +335,11 @@
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll",
-    "file_size": "2134808 bytes",
+    "file_size": "2134800 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll",
-    "file_size": "66240 bytes",
+    "file_size": "66248 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll",
@@ -347,7 +347,7 @@
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
-    "file_size": "1740176 bytes",
+    "file_size": "1740184 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
@@ -551,7 +551,7 @@
     "languages": []
   }, {
     "path": "Engine/Binaries/Win64/turbojpeg.dll",
-    "file_size": "743312 bytes",
+    "file_size": "743304 bytes",
     "languages": []
   }, {
     "path": "Engine/Binaries/Win64/ucrtbase.dll",
@@ -595,7 +595,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Binaries/Win64/VALORANT-Win64-Shipping.exe",
-    "file_size": "159472936 bytes",
+    "file_size": "159588632 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll",
@@ -791,7 +791,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Binaries/Win64/stub.dll",
-    "file_size": "7835880 bytes",
+    "file_size": "7891680 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Binaries/Win64/turbojpeg.dll",
@@ -883,19 +883,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ar_AE_Audio-WindowsClient.pak",
-    "file_size": "279693304 bytes",
+    "file_size": "279392392 bytes",
     "languages": [
       "all_loc", "ar_AE"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ar_AE_Audio-WindowsClient.sig",
-    "file_size": "17600 bytes",
+    "file_size": "17584 bytes",
     "languages": [
       "all_loc", "ar_AE"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ar_AE_Text-WindowsClient.pak",
-    "file_size": "1233144 bytes",
+    "file_size": "1240108 bytes",
     "languages": [
       "all_loc", "ar_AE"
     ]
@@ -907,19 +907,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/de_DE_Audio-WindowsClient.pak",
-    "file_size": "244872610 bytes",
+    "file_size": "244518434 bytes",
     "languages": [
       "all_loc", "de_DE"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/de_DE_Audio-WindowsClient.sig",
-    "file_size": "15476 bytes",
+    "file_size": "15456 bytes",
     "languages": [
       "all_loc", "de_DE"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/de_DE_Text-WindowsClient.pak",
-    "file_size": "1400296 bytes",
+    "file_size": "1408552 bytes",
     "languages": [
       "all_loc", "de_DE"
     ]
@@ -931,19 +931,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/en_US_Audio-WindowsClient.pak",
-    "file_size": "227927698 bytes",
+    "file_size": "227618594 bytes",
     "languages": [
       "all_loc", "en_US", "id_ID", "th_TH", "vi_VN", "zh_TW"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/en_US_Audio-WindowsClient.sig",
-    "file_size": "14440 bytes",
+    "file_size": "14424 bytes",
     "languages": [
       "all_loc", "en_US", "id_ID", "th_TH", "vi_VN", "zh_TW"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/en_US_Text-WindowsClient.pak",
-    "file_size": "1145226 bytes",
+    "file_size": "1151397 bytes",
     "languages": [
       "all_loc", "en_US"
     ]
@@ -955,43 +955,43 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_ES_Audio-WindowsClient.pak",
-    "file_size": "259527206 bytes",
+    "file_size": "259316390 bytes",
     "languages": [
       "all_loc", "es_ES"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_ES_Audio-WindowsClient.sig",
-    "file_size": "16372 bytes",
+    "file_size": "16356 bytes",
     "languages": [
       "all_loc", "es_ES"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_ES_Text-WindowsClient.pak",
-    "file_size": "1238064 bytes",
+    "file_size": "1246463 bytes",
     "languages": [
       "all_loc", "es_ES"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_ES_Text-WindowsClient.sig",
-    "file_size": "604 bytes",
+    "file_size": "608 bytes",
     "languages": [
       "all_loc", "es_ES"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_MX_Audio-WindowsClient.pak",
-    "file_size": "251357645 bytes",
+    "file_size": "251085389 bytes",
     "languages": [
       "all_loc", "es_MX"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_MX_Audio-WindowsClient.sig",
-    "file_size": "15872 bytes",
+    "file_size": "15856 bytes",
     "languages": [
       "all_loc", "es_MX"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/es_MX_Text-WindowsClient.pak",
-    "file_size": "1320542 bytes",
+    "file_size": "1328647 bytes",
     "languages": [
       "all_loc", "es_MX"
     ]
@@ -1003,55 +1003,55 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/fr_FR_Audio-WindowsClient.pak",
-    "file_size": "232561741 bytes",
+    "file_size": "232291533 bytes",
     "languages": [
       "all_loc", "fr_FR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/fr_FR_Audio-WindowsClient.sig",
-    "file_size": "14724 bytes",
+    "file_size": "14708 bytes",
     "languages": [
       "all_loc", "fr_FR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/fr_FR_Text-WindowsClient.pak",
-    "file_size": "1374562 bytes",
+    "file_size": "1383551 bytes",
     "languages": [
       "all_loc", "fr_FR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/fr_FR_Text-WindowsClient.sig",
-    "file_size": "612 bytes",
+    "file_size": "616 bytes",
     "languages": [
       "all_loc", "fr_FR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/id_ID_Text-WindowsClient.pak",
-    "file_size": "783683 bytes",
+    "file_size": "788311 bytes",
     "languages": [
       "all_loc", "id_ID"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/id_ID_Text-WindowsClient.sig",
-    "file_size": "576 bytes",
+    "file_size": "580 bytes",
     "languages": [
       "all_loc", "id_ID"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/it_IT_Audio-WindowsClient.pak",
-    "file_size": "249171362 bytes",
+    "file_size": "248950306 bytes",
     "languages": [
       "all_loc", "it_IT"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/it_IT_Audio-WindowsClient.sig",
-    "file_size": "15740 bytes",
+    "file_size": "15724 bytes",
     "languages": [
       "all_loc", "it_IT"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/it_IT_Text-WindowsClient.pak",
-    "file_size": "1168790 bytes",
+    "file_size": "1175164 bytes",
     "languages": [
       "all_loc", "it_IT"
     ]
@@ -1063,19 +1063,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ja_JP_Audio-WindowsClient.pak",
-    "file_size": "233953188 bytes",
+    "file_size": "233680932 bytes",
     "languages": [
       "all_loc", "ja_JP"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ja_JP_Audio-WindowsClient.sig",
-    "file_size": "14808 bytes",
+    "file_size": "14792 bytes",
     "languages": [
       "all_loc", "ja_JP"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ja_JP_Text-WindowsClient.pak",
-    "file_size": "1049166 bytes",
+    "file_size": "1055087 bytes",
     "languages": [
       "all_loc", "ja_JP"
     ]
@@ -1087,19 +1087,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ko_KR_Audio-WindowsClient.pak",
-    "file_size": "238962429 bytes",
+    "file_size": "238835581 bytes",
     "languages": [
       "all_loc", "ko_KR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ko_KR_Audio-WindowsClient.sig",
-    "file_size": "15116 bytes",
+    "file_size": "15108 bytes",
     "languages": [
       "all_loc", "ko_KR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ko_KR_Text-WindowsClient.pak",
-    "file_size": "950453 bytes",
+    "file_size": "955525 bytes",
     "languages": [
       "all_loc", "ko_KR"
     ]
@@ -1111,15 +1111,15 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0-WindowsClient.pak",
-    "file_size": "373276424 bytes",
+    "file_size": "257474456 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0-WindowsClient.sig",
-    "file_size": "23312 bytes",
+    "file_size": "16244 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s1-WindowsClient.pak",
-    "file_size": "102538800 bytes",
+    "file_size": "102514208 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s1-WindowsClient.sig",
@@ -1127,7 +1127,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s2-WindowsClient.pak",
-    "file_size": "101597916 bytes",
+    "file_size": "101595868 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s2-WindowsClient.sig",
@@ -1143,7 +1143,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s4-WindowsClient.pak",
-    "file_size": "93456412 bytes",
+    "file_size": "93456556 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s4-WindowsClient.sig",
@@ -1159,15 +1159,15 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s6-WindowsClient.pak",
-    "file_size": "107261040 bytes",
+    "file_size": "107365488 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s6-WindowsClient.sig",
-    "file_size": "7076 bytes",
+    "file_size": "7084 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s7-WindowsClient.pak",
-    "file_size": "108211406 bytes",
+    "file_size": "108215502 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk0_s7-WindowsClient.sig",
@@ -1183,15 +1183,15 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1-WindowsClient.pak",
-    "file_size": "105493561 bytes",
+    "file_size": "105578265 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1-WindowsClient.sig",
-    "file_size": "6968 bytes",
+    "file_size": "6972 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10-WindowsClient.pak",
-    "file_size": "105821712 bytes",
+    "file_size": "105825808 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10-WindowsClient.sig",
@@ -1199,7 +1199,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk100-WindowsClient.pak",
-    "file_size": "12412302 bytes",
+    "file_size": "12414350 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk100-WindowsClient.sig",
@@ -1231,7 +1231,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk102-WindowsClient.pak",
-    "file_size": "100187332 bytes",
+    "file_size": "100189380 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk102-WindowsClient.sig",
@@ -1311,7 +1311,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s1-WindowsClient.pak",
-    "file_size": "105790688 bytes",
+    "file_size": "105792736 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s1-WindowsClient.sig",
@@ -1319,47 +1319,47 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s10-WindowsClient.pak",
-    "file_size": "104126777 bytes",
+    "file_size": "106625132 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s10-WindowsClient.sig",
-    "file_size": "6884 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s102-WindowsClient.pak",
-    "file_size": "96788866 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s102-WindowsClient.sig",
-    "file_size": "6436 bytes",
+    "file_size": "7036 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s103-WindowsClient.pak",
-    "file_size": "23971260 bytes",
+    "file_size": "39200746 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s103-WindowsClient.sig",
-    "file_size": "1992 bytes",
+    "file_size": "2924 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s104-WindowsClient.pak",
+    "file_size": "81559308 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s104-WindowsClient.sig",
+    "file_size": "5508 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s11-WindowsClient.pak",
-    "file_size": "105079748 bytes",
+    "file_size": "105696052 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s11-WindowsClient.sig",
-    "file_size": "6944 bytes",
+    "file_size": "6980 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s12-WindowsClient.pak",
-    "file_size": "103271732 bytes",
+    "file_size": "104379780 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s12-WindowsClient.sig",
-    "file_size": "6832 bytes",
+    "file_size": "6900 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s13-WindowsClient.pak",
-    "file_size": "104473892 bytes",
+    "file_size": "104477988 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s13-WindowsClient.sig",
@@ -1375,47 +1375,47 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s15-WindowsClient.pak",
-    "file_size": "105084195 bytes",
+    "file_size": "100424468 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s15-WindowsClient.sig",
-    "file_size": "6944 bytes",
+    "file_size": "6660 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s16-WindowsClient.pak",
-    "file_size": "104594061 bytes",
+    "file_size": "104628856 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s16-WindowsClient.sig",
-    "file_size": "6912 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s17-WindowsClient.pak",
-    "file_size": "103682212 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s17-WindowsClient.sig",
-    "file_size": "6860 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s18-WindowsClient.pak",
-    "file_size": "103625636 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s18-WindowsClient.sig",
-    "file_size": "6856 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s19-WindowsClient.pak",
-    "file_size": "104595619 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s19-WindowsClient.sig",
     "file_size": "6916 bytes",
     "languages": []
   }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s17-WindowsClient.pak",
+    "file_size": "100774596 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s17-WindowsClient.sig",
+    "file_size": "6680 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s18-WindowsClient.pak",
+    "file_size": "103706152 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s18-WindowsClient.sig",
+    "file_size": "6860 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s19-WindowsClient.pak",
+    "file_size": "101800868 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s19-WindowsClient.sig",
+    "file_size": "6744 bytes",
+    "languages": []
+  }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s2-WindowsClient.pak",
-    "file_size": "103615392 bytes",
+    "file_size": "103621536 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s2-WindowsClient.sig",
@@ -1423,87 +1423,87 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s20-WindowsClient.pak",
-    "file_size": "104810850 bytes",
+    "file_size": "104298766 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s20-WindowsClient.sig",
-    "file_size": "6928 bytes",
+    "file_size": "6896 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s21-WindowsClient.pak",
-    "file_size": "102806924 bytes",
+    "file_size": "101681636 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s21-WindowsClient.sig",
-    "file_size": "6804 bytes",
+    "file_size": "6736 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s22-WindowsClient.pak",
-    "file_size": "104587352 bytes",
+    "file_size": "101126756 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s22-WindowsClient.sig",
-    "file_size": "6912 bytes",
+    "file_size": "6704 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s23-WindowsClient.pak",
-    "file_size": "100692852 bytes",
+    "file_size": "105150731 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s23-WindowsClient.sig",
-    "file_size": "6676 bytes",
+    "file_size": "6948 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s24-WindowsClient.pak",
-    "file_size": "104815156 bytes",
+    "file_size": "105289003 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s24-WindowsClient.sig",
-    "file_size": "6928 bytes",
+    "file_size": "6956 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s25-WindowsClient.pak",
-    "file_size": "104469647 bytes",
+    "file_size": "105359988 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s25-WindowsClient.sig",
-    "file_size": "6908 bytes",
+    "file_size": "6960 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s26-WindowsClient.pak",
-    "file_size": "102704868 bytes",
+    "file_size": "104898042 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s26-WindowsClient.sig",
-    "file_size": "6800 bytes",
+    "file_size": "6932 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s27-WindowsClient.pak",
-    "file_size": "104782163 bytes",
+    "file_size": "104082468 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s27-WindowsClient.sig",
-    "file_size": "6924 bytes",
+    "file_size": "6884 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s28-WindowsClient.pak",
-    "file_size": "104743202 bytes",
+    "file_size": "105134241 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s28-WindowsClient.sig",
-    "file_size": "6924 bytes",
+    "file_size": "6948 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s29-WindowsClient.pak",
-    "file_size": "101214685 bytes",
+    "file_size": "105515752 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s29-WindowsClient.sig",
-    "file_size": "6708 bytes",
+    "file_size": "6972 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s3-WindowsClient.pak",
-    "file_size": "105504360 bytes",
+    "file_size": "105502312 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s3-WindowsClient.sig",
@@ -1511,63 +1511,63 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s30-WindowsClient.pak",
-    "file_size": "104017439 bytes",
+    "file_size": "105145925 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s30-WindowsClient.sig",
-    "file_size": "6880 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s31-WindowsClient.pak",
-    "file_size": "104525456 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s31-WindowsClient.sig",
-    "file_size": "6908 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s32-WindowsClient.pak",
-    "file_size": "104535398 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s32-WindowsClient.sig",
-    "file_size": "6912 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s33-WindowsClient.pak",
-    "file_size": "103062612 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s33-WindowsClient.sig",
-    "file_size": "6820 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s34-WindowsClient.pak",
-    "file_size": "105178004 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s34-WindowsClient.sig",
     "file_size": "6948 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s35-WindowsClient.pak",
-    "file_size": "104844964 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s31-WindowsClient.pak",
+    "file_size": "104338904 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s35-WindowsClient.sig",
-    "file_size": "6928 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s31-WindowsClient.sig",
+    "file_size": "6900 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s36-WindowsClient.pak",
-    "file_size": "104890493 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s32-WindowsClient.pak",
+    "file_size": "105142436 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s36-WindowsClient.sig",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s32-WindowsClient.sig",
+    "file_size": "6948 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s33-WindowsClient.pak",
+    "file_size": "102787005 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s33-WindowsClient.sig",
+    "file_size": "6804 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s34-WindowsClient.pak",
+    "file_size": "104900072 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s34-WindowsClient.sig",
     "file_size": "6932 bytes",
     "languages": []
   }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s35-WindowsClient.pak",
+    "file_size": "101368123 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s35-WindowsClient.sig",
+    "file_size": "6716 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s36-WindowsClient.pak",
+    "file_size": "100827780 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s36-WindowsClient.sig",
+    "file_size": "6684 bytes",
+    "languages": []
+  }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s37-WindowsClient.pak",
-    "file_size": "103675268 bytes",
+    "file_size": "103616280 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s37-WindowsClient.sig",
@@ -1575,23 +1575,23 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s38-WindowsClient.pak",
-    "file_size": "104440232 bytes",
+    "file_size": "105167384 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s38-WindowsClient.sig",
-    "file_size": "6904 bytes",
+    "file_size": "6948 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s39-WindowsClient.pak",
-    "file_size": "105265425 bytes",
+    "file_size": "104773540 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s39-WindowsClient.sig",
-    "file_size": "6956 bytes",
+    "file_size": "6924 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s4-WindowsClient.pak",
-    "file_size": "104448902 bytes",
+    "file_size": "104446854 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s4-WindowsClient.sig",
@@ -1599,87 +1599,87 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s40-WindowsClient.pak",
-    "file_size": "101293940 bytes",
+    "file_size": "103928936 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s40-WindowsClient.sig",
-    "file_size": "6712 bytes",
+    "file_size": "6872 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s41-WindowsClient.pak",
-    "file_size": "103866095 bytes",
+    "file_size": "100245060 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s41-WindowsClient.sig",
-    "file_size": "6868 bytes",
+    "file_size": "6648 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s42-WindowsClient.pak",
-    "file_size": "104037091 bytes",
+    "file_size": "102344660 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s42-WindowsClient.sig",
-    "file_size": "6880 bytes",
+    "file_size": "6776 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s43-WindowsClient.pak",
-    "file_size": "104938852 bytes",
+    "file_size": "104167601 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s43-WindowsClient.sig",
-    "file_size": "6936 bytes",
+    "file_size": "6888 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s44-WindowsClient.pak",
-    "file_size": "104727800 bytes",
+    "file_size": "86188961 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s44-WindowsClient.sig",
-    "file_size": "6924 bytes",
+    "file_size": "5792 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s45-WindowsClient.pak",
-    "file_size": "102745316 bytes",
+    "file_size": "103371658 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s45-WindowsClient.sig",
-    "file_size": "6800 bytes",
+    "file_size": "6840 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s46-WindowsClient.pak",
-    "file_size": "103014776 bytes",
+    "file_size": "104972644 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s46-WindowsClient.sig",
-    "file_size": "6816 bytes",
+    "file_size": "6936 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s47-WindowsClient.pak",
-    "file_size": "102724728 bytes",
+    "file_size": "105003517 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s47-WindowsClient.sig",
-    "file_size": "6800 bytes",
+    "file_size": "6940 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s48-WindowsClient.pak",
-    "file_size": "100664196 bytes",
+    "file_size": "104336900 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s48-WindowsClient.sig",
-    "file_size": "6676 bytes",
+    "file_size": "6900 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s49-WindowsClient.pak",
-    "file_size": "100317604 bytes",
+    "file_size": "104155201 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s49-WindowsClient.sig",
-    "file_size": "6652 bytes",
+    "file_size": "6888 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s5-WindowsClient.pak",
-    "file_size": "102764075 bytes",
+    "file_size": "102766123 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s5-WindowsClient.sig",
@@ -1687,431 +1687,439 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s50-WindowsClient.pak",
-    "file_size": "104143012 bytes",
+    "file_size": "102610674 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s50-WindowsClient.sig",
-    "file_size": "6888 bytes",
+    "file_size": "6792 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s51-WindowsClient.pak",
-    "file_size": "104790264 bytes",
+    "file_size": "104579844 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s51-WindowsClient.sig",
-    "file_size": "6924 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s52-WindowsClient.pak",
-    "file_size": "105029803 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s52-WindowsClient.sig",
-    "file_size": "6940 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s53-WindowsClient.pak",
-    "file_size": "104878212 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s53-WindowsClient.sig",
-    "file_size": "6932 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s54-WindowsClient.pak",
-    "file_size": "105506054 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s54-WindowsClient.sig",
-    "file_size": "6968 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s55-WindowsClient.pak",
-    "file_size": "104129574 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s55-WindowsClient.sig",
-    "file_size": "6884 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s56-WindowsClient.pak",
-    "file_size": "101762900 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s56-WindowsClient.sig",
-    "file_size": "6740 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s57-WindowsClient.pak",
-    "file_size": "102519087 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s57-WindowsClient.sig",
-    "file_size": "6788 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s58-WindowsClient.pak",
-    "file_size": "105089361 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s58-WindowsClient.sig",
-    "file_size": "6944 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s59-WindowsClient.pak",
-    "file_size": "103188756 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s59-WindowsClient.sig",
-    "file_size": "6828 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s6-WindowsClient.pak",
-    "file_size": "107581823 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s6-WindowsClient.sig",
-    "file_size": "7096 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s60-WindowsClient.pak",
-    "file_size": "103504786 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s60-WindowsClient.sig",
-    "file_size": "6848 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s61-WindowsClient.pak",
-    "file_size": "103089890 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s61-WindowsClient.sig",
-    "file_size": "6824 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s62-WindowsClient.pak",
-    "file_size": "104744337 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s62-WindowsClient.sig",
-    "file_size": "6924 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s63-WindowsClient.pak",
-    "file_size": "102558088 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s63-WindowsClient.sig",
-    "file_size": "6788 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s64-WindowsClient.pak",
-    "file_size": "105108052 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s64-WindowsClient.sig",
-    "file_size": "6944 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s65-WindowsClient.pak",
-    "file_size": "104583380 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s65-WindowsClient.sig",
     "file_size": "6912 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s66-WindowsClient.pak",
-    "file_size": "103535284 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s52-WindowsClient.pak",
+    "file_size": "101114116 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s66-WindowsClient.sig",
-    "file_size": "6848 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s52-WindowsClient.sig",
+    "file_size": "6700 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s67-WindowsClient.pak",
-    "file_size": "101611428 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s53-WindowsClient.pak",
+    "file_size": "101794011 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s67-WindowsClient.sig",
-    "file_size": "6732 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s53-WindowsClient.sig",
+    "file_size": "6744 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s68-WindowsClient.pak",
-    "file_size": "104708215 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s54-WindowsClient.pak",
+    "file_size": "105546566 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s68-WindowsClient.sig",
-    "file_size": "6920 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s54-WindowsClient.sig",
+    "file_size": "6972 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s69-WindowsClient.pak",
-    "file_size": "103800924 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s55-WindowsClient.pak",
+    "file_size": "102935984 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s69-WindowsClient.sig",
-    "file_size": "6864 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s55-WindowsClient.sig",
+    "file_size": "6812 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s7-WindowsClient.pak",
-    "file_size": "106569944 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s56-WindowsClient.pak",
+    "file_size": "104479282 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s7-WindowsClient.sig",
-    "file_size": "7036 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s70-WindowsClient.pak",
-    "file_size": "105046129 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s70-WindowsClient.sig",
-    "file_size": "6940 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s71-WindowsClient.pak",
-    "file_size": "103294859 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s71-WindowsClient.sig",
-    "file_size": "6836 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s72-WindowsClient.pak",
-    "file_size": "103264203 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s72-WindowsClient.sig",
-    "file_size": "6832 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s73-WindowsClient.pak",
-    "file_size": "100586180 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s73-WindowsClient.sig",
-    "file_size": "6668 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s74-WindowsClient.pak",
-    "file_size": "104482333 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s74-WindowsClient.sig",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s56-WindowsClient.sig",
     "file_size": "6908 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s75-WindowsClient.pak",
-    "file_size": "104346797 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s57-WindowsClient.pak",
+    "file_size": "103811012 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s75-WindowsClient.sig",
-    "file_size": "6900 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s57-WindowsClient.sig",
+    "file_size": "6868 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s76-WindowsClient.pak",
-    "file_size": "95192401 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s58-WindowsClient.pak",
+    "file_size": "87203021 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s76-WindowsClient.sig",
-    "file_size": "6340 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s58-WindowsClient.sig",
+    "file_size": "5852 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s77-WindowsClient.pak",
-    "file_size": "102355604 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s59-WindowsClient.pak",
+    "file_size": "101033489 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s77-WindowsClient.sig",
-    "file_size": "6776 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s59-WindowsClient.sig",
+    "file_size": "6696 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s78-WindowsClient.pak",
-    "file_size": "102726148 bytes",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s6-WindowsClient.pak",
+    "file_size": "107679573 bytes",
     "languages": []
   }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s78-WindowsClient.sig",
-    "file_size": "6800 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s79-WindowsClient.pak",
-    "file_size": "101655172 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s79-WindowsClient.sig",
-    "file_size": "6736 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s8-WindowsClient.pak",
-    "file_size": "106033600 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s8-WindowsClient.sig",
-    "file_size": "7000 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s80-WindowsClient.pak",
-    "file_size": "103545348 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s80-WindowsClient.sig",
-    "file_size": "6848 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s81-WindowsClient.pak",
-    "file_size": "101255700 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s81-WindowsClient.sig",
-    "file_size": "6712 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s82-WindowsClient.pak",
-    "file_size": "103441020 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s82-WindowsClient.sig",
-    "file_size": "6844 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s83-WindowsClient.pak",
-    "file_size": "104954050 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s83-WindowsClient.sig",
-    "file_size": "6936 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s84-WindowsClient.pak",
-    "file_size": "102771014 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s84-WindowsClient.sig",
-    "file_size": "6804 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s85-WindowsClient.pak",
-    "file_size": "105776317 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s85-WindowsClient.sig",
-    "file_size": "6988 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s86-WindowsClient.pak",
-    "file_size": "101319220 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s86-WindowsClient.sig",
-    "file_size": "6716 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s87-WindowsClient.pak",
-    "file_size": "103405444 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s87-WindowsClient.sig",
-    "file_size": "6840 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s88-WindowsClient.pak",
-    "file_size": "101140820 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s88-WindowsClient.sig",
-    "file_size": "6704 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s89-WindowsClient.pak",
-    "file_size": "100212308 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s89-WindowsClient.sig",
-    "file_size": "6648 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s9-WindowsClient.pak",
-    "file_size": "107055536 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s9-WindowsClient.sig",
-    "file_size": "7064 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s90-WindowsClient.pak",
-    "file_size": "104365684 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s90-WindowsClient.sig",
-    "file_size": "6900 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s91-WindowsClient.pak",
-    "file_size": "103038244 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s91-WindowsClient.sig",
-    "file_size": "6820 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s92-WindowsClient.pak",
-    "file_size": "105012244 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s92-WindowsClient.sig",
-    "file_size": "6940 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s93-WindowsClient.pak",
-    "file_size": "102817876 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s93-WindowsClient.sig",
-    "file_size": "6804 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s94-WindowsClient.pak",
-    "file_size": "104476884 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s94-WindowsClient.sig",
-    "file_size": "6908 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s95-WindowsClient.pak",
-    "file_size": "107704250 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk10_s95-WindowsClient.sig",
+    "path": "ShooterGame/Content/Paks/pakchunk10_s6-WindowsClient.sig",
     "file_size": "7104 bytes",
     "languages": []
   }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s60-WindowsClient.pak",
+    "file_size": "104718374 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s60-WindowsClient.sig",
+    "file_size": "6920 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s61-WindowsClient.pak",
+    "file_size": "104557906 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s61-WindowsClient.sig",
+    "file_size": "6912 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s62-WindowsClient.pak",
+    "file_size": "103235316 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s62-WindowsClient.sig",
+    "file_size": "6832 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s63-WindowsClient.pak",
+    "file_size": "104967595 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s63-WindowsClient.sig",
+    "file_size": "6936 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s64-WindowsClient.pak",
+    "file_size": "102614324 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s64-WindowsClient.sig",
+    "file_size": "6792 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s65-WindowsClient.pak",
+    "file_size": "103142884 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s65-WindowsClient.sig",
+    "file_size": "6824 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s66-WindowsClient.pak",
+    "file_size": "103066307 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s66-WindowsClient.sig",
+    "file_size": "6820 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s67-WindowsClient.pak",
+    "file_size": "105224763 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s67-WindowsClient.sig",
+    "file_size": "6952 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s68-WindowsClient.pak",
+    "file_size": "101157140 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s68-WindowsClient.sig",
+    "file_size": "6704 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s69-WindowsClient.pak",
+    "file_size": "101081476 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s69-WindowsClient.sig",
+    "file_size": "6700 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s7-WindowsClient.pak",
+    "file_size": "106316331 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s7-WindowsClient.sig",
+    "file_size": "7020 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s70-WindowsClient.pak",
+    "file_size": "101439444 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s70-WindowsClient.sig",
+    "file_size": "6720 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s71-WindowsClient.pak",
+    "file_size": "101817940 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s71-WindowsClient.sig",
+    "file_size": "6744 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s72-WindowsClient.pak",
+    "file_size": "103942712 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s72-WindowsClient.sig",
+    "file_size": "6876 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s73-WindowsClient.pak",
+    "file_size": "103935604 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s73-WindowsClient.sig",
+    "file_size": "6872 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s74-WindowsClient.pak",
+    "file_size": "103839000 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s74-WindowsClient.sig",
+    "file_size": "6868 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s75-WindowsClient.pak",
+    "file_size": "102739824 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s75-WindowsClient.sig",
+    "file_size": "6800 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s76-WindowsClient.pak",
+    "file_size": "102710660 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s76-WindowsClient.sig",
+    "file_size": "6800 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s77-WindowsClient.pak",
+    "file_size": "101171732 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s77-WindowsClient.sig",
+    "file_size": "6704 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s78-WindowsClient.pak",
+    "file_size": "99512548 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s78-WindowsClient.sig",
+    "file_size": "6604 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s79-WindowsClient.pak",
+    "file_size": "102656402 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s79-WindowsClient.sig",
+    "file_size": "6796 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s8-WindowsClient.pak",
+    "file_size": "105813586 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s8-WindowsClient.sig",
+    "file_size": "6988 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s80-WindowsClient.pak",
+    "file_size": "101629556 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s80-WindowsClient.sig",
+    "file_size": "6732 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s81-WindowsClient.pak",
+    "file_size": "103092676 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s81-WindowsClient.sig",
+    "file_size": "6824 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s82-WindowsClient.pak",
+    "file_size": "105044667 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s82-WindowsClient.sig",
+    "file_size": "6940 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s83-WindowsClient.pak",
+    "file_size": "105185602 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s83-WindowsClient.sig",
+    "file_size": "6952 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s84-WindowsClient.pak",
+    "file_size": "102670632 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s84-WindowsClient.sig",
+    "file_size": "6796 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s85-WindowsClient.pak",
+    "file_size": "102817060 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s85-WindowsClient.sig",
+    "file_size": "6804 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s86-WindowsClient.pak",
+    "file_size": "101185108 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s86-WindowsClient.sig",
+    "file_size": "6704 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s87-WindowsClient.pak",
+    "file_size": "102641508 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s87-WindowsClient.sig",
+    "file_size": "6796 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s88-WindowsClient.pak",
+    "file_size": "103952084 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s88-WindowsClient.sig",
+    "file_size": "6876 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s89-WindowsClient.pak",
+    "file_size": "100709652 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s89-WindowsClient.sig",
+    "file_size": "6676 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s9-WindowsClient.pak",
+    "file_size": "107218736 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s9-WindowsClient.sig",
+    "file_size": "7076 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s90-WindowsClient.pak",
+    "file_size": "103357821 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s90-WindowsClient.sig",
+    "file_size": "6840 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s91-WindowsClient.pak",
+    "file_size": "104819291 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s91-WindowsClient.sig",
+    "file_size": "6928 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s92-WindowsClient.pak",
+    "file_size": "104229832 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s92-WindowsClient.sig",
+    "file_size": "6892 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s93-WindowsClient.pak",
+    "file_size": "103908141 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s93-WindowsClient.sig",
+    "file_size": "6872 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s94-WindowsClient.pak",
+    "file_size": "105169666 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s94-WindowsClient.sig",
+    "file_size": "6948 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s95-WindowsClient.pak",
+    "file_size": "103601576 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s95-WindowsClient.sig",
+    "file_size": "6852 bytes",
+    "languages": []
+  }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s96-WindowsClient.pak",
-    "file_size": "107029975 bytes",
+    "file_size": "104282874 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s96-WindowsClient.sig",
-    "file_size": "7064 bytes",
+    "file_size": "6896 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s97-WindowsClient.pak",
-    "file_size": "106921508 bytes",
+    "file_size": "107237207 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s97-WindowsClient.sig",
-    "file_size": "7056 bytes",
+    "file_size": "7076 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s98-WindowsClient.pak",
-    "file_size": "18380345 bytes",
+    "file_size": "105382791 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk10_s98-WindowsClient.sig",
-    "file_size": "1652 bytes",
+    "file_size": "6964 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s99-WindowsClient.pak",
+    "file_size": "73693593 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk10_s99-WindowsClient.sig",
+    "file_size": "5028 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk15-WindowsClient.pak",
-    "file_size": "104497757 bytes",
+    "file_size": "104499805 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk15-WindowsClient.sig",
@@ -2119,7 +2127,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk15_s1-WindowsClient.pak",
-    "file_size": "105540891 bytes",
+    "file_size": "105542939 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk15_s1-WindowsClient.sig",
@@ -2143,7 +2151,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199-WindowsClient.pak",
-    "file_size": "104683860 bytes",
+    "file_size": "104687956 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199-WindowsClient.sig",
@@ -2159,11 +2167,11 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199_s2-WindowsClient.pak",
-    "file_size": "103349228 bytes",
+    "file_size": "103351276 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199_s2-WindowsClient.sig",
-    "file_size": "6836 bytes",
+    "file_size": "6840 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199_s3-WindowsClient.pak",
@@ -2183,7 +2191,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199_s5-WindowsClient.pak",
-    "file_size": "105141944 bytes",
+    "file_size": "105143992 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk199_s5-WindowsClient.sig",
@@ -2199,7 +2207,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s1-WindowsClient.pak",
-    "file_size": "106126738 bytes",
+    "file_size": "106124690 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s1-WindowsClient.sig",
@@ -2207,7 +2215,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s10-WindowsClient.pak",
-    "file_size": "105659516 bytes",
+    "file_size": "105667708 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s10-WindowsClient.sig",
@@ -2215,7 +2223,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s100-WindowsClient.pak",
-    "file_size": "105524698 bytes",
+    "file_size": "105530842 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s100-WindowsClient.sig",
@@ -2223,7 +2231,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s101-WindowsClient.pak",
-    "file_size": "105555723 bytes",
+    "file_size": "105559819 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s101-WindowsClient.sig",
@@ -2231,7 +2239,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s102-WindowsClient.pak",
-    "file_size": "103638577 bytes",
+    "file_size": "103665325 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s102-WindowsClient.sig",
@@ -2239,7 +2247,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s103-WindowsClient.pak",
-    "file_size": "95650331 bytes",
+    "file_size": "95662619 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s103-WindowsClient.sig",
@@ -2247,7 +2255,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s104-WindowsClient.pak",
-    "file_size": "104512594 bytes",
+    "file_size": "104485970 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s104-WindowsClient.sig",
@@ -2255,15 +2263,15 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s105-WindowsClient.pak",
-    "file_size": "99702723 bytes",
+    "file_size": "99567555 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s105-WindowsClient.sig",
-    "file_size": "6616 bytes",
+    "file_size": "6608 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s106-WindowsClient.pak",
-    "file_size": "90562782 bytes",
+    "file_size": "90558686 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s106-WindowsClient.sig",
@@ -2271,23 +2279,23 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s107-WindowsClient.pak",
-    "file_size": "104320899 bytes",
+    "file_size": "104404867 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s107-WindowsClient.sig",
-    "file_size": "6896 bytes",
+    "file_size": "6904 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s108-WindowsClient.pak",
-    "file_size": "94904091 bytes",
+    "file_size": "95057691 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s108-WindowsClient.sig",
-    "file_size": "6324 bytes",
+    "file_size": "6332 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s109-WindowsClient.pak",
-    "file_size": "104387704 bytes",
+    "file_size": "104385656 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s109-WindowsClient.sig",
@@ -2295,31 +2303,31 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s11-WindowsClient.pak",
-    "file_size": "105520978 bytes",
+    "file_size": "105656146 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s11-WindowsClient.sig",
-    "file_size": "6972 bytes",
+    "file_size": "6980 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s110-WindowsClient.pak",
-    "file_size": "104833906 bytes",
+    "file_size": "103764850 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s110-WindowsClient.sig",
-    "file_size": "6928 bytes",
+    "file_size": "6864 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s111-WindowsClient.pak",
-    "file_size": "91615143 bytes",
+    "file_size": "90365863 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s111-WindowsClient.sig",
-    "file_size": "6120 bytes",
+    "file_size": "6044 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s112-WindowsClient.pak",
-    "file_size": "97260530 bytes",
+    "file_size": "97268722 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s112-WindowsClient.sig",
@@ -2327,7 +2335,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s113-WindowsClient.pak",
-    "file_size": "95173484 bytes",
+    "file_size": "95169388 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s113-WindowsClient.sig",
@@ -2335,55 +2343,55 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s114-WindowsClient.pak",
-    "file_size": "95642704 bytes",
+    "file_size": "93931846 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s114-WindowsClient.sig",
-    "file_size": "6368 bytes",
+    "file_size": "6264 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s115-WindowsClient.pak",
-    "file_size": "101629762 bytes",
+    "file_size": "103022418 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s115-WindowsClient.sig",
-    "file_size": "6732 bytes",
+    "file_size": "6816 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s116-WindowsClient.pak",
-    "file_size": "104612483 bytes",
+    "file_size": "104922201 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s116-WindowsClient.sig",
-    "file_size": "6916 bytes",
+    "file_size": "6932 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s117-WindowsClient.pak",
-    "file_size": "102298200 bytes",
+    "file_size": "103885720 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s117-WindowsClient.sig",
-    "file_size": "6772 bytes",
+    "file_size": "6872 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s118-WindowsClient.pak",
-    "file_size": "89418925 bytes",
+    "file_size": "104878320 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s118-WindowsClient.sig",
-    "file_size": "5988 bytes",
+    "file_size": "6932 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s119-WindowsClient.pak",
-    "file_size": "98380709 bytes",
+    "file_size": "92747113 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s119-WindowsClient.sig",
-    "file_size": "6536 bytes",
+    "file_size": "6192 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s12-WindowsClient.pak",
-    "file_size": "104134227 bytes",
+    "file_size": "104130131 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s12-WindowsClient.sig",
@@ -2391,11 +2399,11 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s120-WindowsClient.pak",
-    "file_size": "73102410 bytes",
+    "file_size": "61965530 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s120-WindowsClient.sig",
-    "file_size": "4992 bytes",
+    "file_size": "4312 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s121-WindowsClient.pak",
@@ -2423,15 +2431,15 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s124-WindowsClient.pak",
-    "file_size": "103447072 bytes",
+    "file_size": "103776800 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s124-WindowsClient.sig",
-    "file_size": "6844 bytes",
+    "file_size": "6864 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s125-WindowsClient.pak",
-    "file_size": "104303012 bytes",
+    "file_size": "104309156 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s125-WindowsClient.sig",
@@ -2439,19 +2447,19 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s126-WindowsClient.pak",
-    "file_size": "104487428 bytes",
+    "file_size": "103082416 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s126-WindowsClient.sig",
-    "file_size": "6908 bytes",
+    "file_size": "6820 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s127-WindowsClient.pak",
-    "file_size": "92935696 bytes",
+    "file_size": "95512192 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s127-WindowsClient.sig",
-    "file_size": "6204 bytes",
+    "file_size": "6360 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s128-WindowsClient.pak",
@@ -2479,23 +2487,23 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s130-WindowsClient.pak",
-    "file_size": "107422189 bytes",
+    "file_size": "107317581 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s130-WindowsClient.sig",
-    "file_size": "7088 bytes",
+    "file_size": "7080 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s131-WindowsClient.pak",
-    "file_size": "103723803 bytes",
+    "file_size": "104047563 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s131-WindowsClient.sig",
-    "file_size": "6860 bytes",
+    "file_size": "6880 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s132-WindowsClient.pak",
-    "file_size": "105130087 bytes",
+    "file_size": "105134183 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s132-WindowsClient.sig",
@@ -2511,7 +2519,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s134-WindowsClient.pak",
-    "file_size": "107015531 bytes",
+    "file_size": "107019651 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s134-WindowsClient.sig",
@@ -2519,7 +2527,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s135-WindowsClient.pak",
-    "file_size": "105533684 bytes",
+    "file_size": "105537780 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s135-WindowsClient.sig",
@@ -2527,7 +2535,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s136-WindowsClient.pak",
-    "file_size": "106355528 bytes",
+    "file_size": "106363720 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s136-WindowsClient.sig",
@@ -2535,7 +2543,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s137-WindowsClient.pak",
-    "file_size": "34768933 bytes",
+    "file_size": "34781381 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s137-WindowsClient.sig",
@@ -2559,83 +2567,83 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s16-WindowsClient.pak",
-    "file_size": "107484446 bytes",
+    "file_size": "107150474 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s16-WindowsClient.sig",
-    "file_size": "7092 bytes",
+    "file_size": "7068 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s160-WindowsClient.pak",
-    "file_size": "43041168 bytes",
+    "file_size": "46904635 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s160-WindowsClient.sig",
-    "file_size": "3156 bytes",
+    "file_size": "3392 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s161-WindowsClient.pak",
-    "file_size": "107070666 bytes",
+    "file_size": "107159142 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s161-WindowsClient.sig",
-    "file_size": "7064 bytes",
+    "file_size": "7072 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s162-WindowsClient.pak",
-    "file_size": "106942644 bytes",
+    "file_size": "106741393 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s162-WindowsClient.sig",
-    "file_size": "7056 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk1_s163-WindowsClient.pak",
-    "file_size": "106919241 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk1_s163-WindowsClient.sig",
-    "file_size": "7056 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk1_s164-WindowsClient.pak",
-    "file_size": "106732091 bytes",
-    "languages": []
-  }, {
-    "path": "ShooterGame/Content/Paks/pakchunk1_s164-WindowsClient.sig",
     "file_size": "7044 bytes",
     "languages": []
   }, {
+    "path": "ShooterGame/Content/Paks/pakchunk1_s163-WindowsClient.pak",
+    "file_size": "105918581 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk1_s163-WindowsClient.sig",
+    "file_size": "6996 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk1_s164-WindowsClient.pak",
+    "file_size": "106598154 bytes",
+    "languages": []
+  }, {
+    "path": "ShooterGame/Content/Paks/pakchunk1_s164-WindowsClient.sig",
+    "file_size": "7036 bytes",
+    "languages": []
+  }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s165-WindowsClient.pak",
-    "file_size": "92839858 bytes",
+    "file_size": "92175893 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s165-WindowsClient.sig",
-    "file_size": "6196 bytes",
+    "file_size": "6156 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s17-WindowsClient.pak",
-    "file_size": "106457858 bytes",
+    "file_size": "106645118 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s17-WindowsClient.sig",
-    "file_size": "7028 bytes",
+    "file_size": "7040 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s18-WindowsClient.pak",
-    "file_size": "107066866 bytes",
+    "file_size": "107311138 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s18-WindowsClient.sig",
-    "file_size": "7064 bytes",
+    "file_size": "7080 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s19-WindowsClient.pak",
-    "file_size": "106626856 bytes",
+    "file_size": "106630980 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s19-WindowsClient.sig",
-    "file_size": "7036 bytes",
+    "file_size": "7040 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s2-WindowsClient.pak",
@@ -2647,7 +2655,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s20-WindowsClient.pak",
-    "file_size": "106092862 bytes",
+    "file_size": "106101082 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s20-WindowsClient.sig",
@@ -2655,7 +2663,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s21-WindowsClient.pak",
-    "file_size": "106784530 bytes",
+    "file_size": "106798866 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s21-WindowsClient.sig",
@@ -2663,7 +2671,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s22-WindowsClient.pak",
-    "file_size": "104770010 bytes",
+    "file_size": "104767962 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s22-WindowsClient.sig",
@@ -2671,7 +2679,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s23-WindowsClient.pak",
-    "file_size": "105743230 bytes",
+    "file_size": "105726846 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s23-WindowsClient.sig",
@@ -2679,7 +2687,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s24-WindowsClient.pak",
-    "file_size": "105347698 bytes",
+    "file_size": "105341554 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s24-WindowsClient.sig",
@@ -2687,47 +2695,47 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s25-WindowsClient.pak",
-    "file_size": "106616033 bytes",
+    "file_size": "103631728 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s25-WindowsClient.sig",
-    "file_size": "7036 bytes",
+    "file_size": "6856 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s26-WindowsClient.pak",
-    "file_size": "106861895 bytes",
+    "file_size": "107031202 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s26-WindowsClient.sig",
-    "file_size": "7052 bytes",
+    "file_size": "7064 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s27-WindowsClient.pak",
-    "file_size": "106495351 bytes",
+    "file_size": "107225404 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s27-WindowsClient.sig",
-    "file_size": "7028 bytes",
+    "file_size": "7076 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s28-WindowsClient.pak",
-    "file_size": "106439064 bytes",
+    "file_size": "106202121 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s28-WindowsClient.sig",
-    "file_size": "7028 bytes",
+    "file_size": "7012 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s29-WindowsClient.pak",
-    "file_size": "106504784 bytes",
+    "file_size": "106436501 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s29-WindowsClient.sig",
-    "file_size": "7032 bytes",
+    "file_size": "7028 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s3-WindowsClient.pak",
-    "file_size": "105593976 bytes",
+    "file_size": "105596052 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s3-WindowsClient.sig",
@@ -2735,39 +2743,39 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s30-WindowsClient.pak",
-    "file_size": "107205056 bytes",
+    "file_size": "107330727 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s30-WindowsClient.sig",
-    "file_size": "7072 bytes",
+    "file_size": "7080 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s31-WindowsClient.pak",
-    "file_size": "106853577 bytes",
+    "file_size": "106980501 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s31-WindowsClient.sig",
-    "file_size": "7052 bytes",
+    "file_size": "7060 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s32-WindowsClient.pak",
-    "file_size": "107143090 bytes",
+    "file_size": "107189154 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s32-WindowsClient.sig",
-    "file_size": "7068 bytes",
+    "file_size": "7072 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s33-WindowsClient.pak",
-    "file_size": "107133068 bytes",
+    "file_size": "107242140 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s33-WindowsClient.sig",
-    "file_size": "7068 bytes",
+    "file_size": "7076 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s34-WindowsClient.pak",
-    "file_size": "106467312 bytes",
+    "file_size": "106437955 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s34-WindowsClient.sig",
@@ -2775,31 +2783,31 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s35-WindowsClient.pak",
-    "file_size": "106831770 bytes",
+    "file_size": "107162274 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s35-WindowsClient.sig",
-    "file_size": "7052 bytes",
+    "file_size": "7072 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s36-WindowsClient.pak",
-    "file_size": "104565284 bytes",
+    "file_size": "106369476 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s36-WindowsClient.sig",
-    "file_size": "6912 bytes",
+    "file_size": "7024 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s37-WindowsClient.pak",
-    "file_size": "105707744 bytes",
+    "file_size": "105709792 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s37-WindowsClient.sig",
-    "file_size": "6980 bytes",
+    "file_size": "6984 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s38-WindowsClient.pak",
-    "file_size": "107360620 bytes",
+    "file_size": "107358572 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s38-WindowsClient.sig",
@@ -2839,7 +2847,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s42-WindowsClient.pak",
-    "file_size": "102778240 bytes",
+    "file_size": "102780288 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s42-WindowsClient.sig",
@@ -2847,7 +2855,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s43-WindowsClient.pak",
-    "file_size": "103177364 bytes",
+    "file_size": "103179412 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s43-WindowsClient.sig",
@@ -2855,7 +2863,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s44-WindowsClient.pak",
-    "file_size": "103492596 bytes",
+    "file_size": "103494644 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s44-WindowsClient.sig",
@@ -2895,7 +2903,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s49-WindowsClient.pak",
-    "file_size": "105367959 bytes",
+    "file_size": "105367987 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s49-WindowsClient.sig",
@@ -2903,11 +2911,11 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s5-WindowsClient.pak",
-    "file_size": "106364882 bytes",
+    "file_size": "106373074 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s5-WindowsClient.sig",
-    "file_size": "7020 bytes",
+    "file_size": "7024 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s50-WindowsClient.pak",
@@ -2935,7 +2943,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s53-WindowsClient.pak",
-    "file_size": "101944495 bytes",
+    "file_size": "101946571 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s53-WindowsClient.sig",
@@ -2951,7 +2959,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s55-WindowsClient.pak",
-    "file_size": "104225236 bytes",
+    "file_size": "104229332 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s55-WindowsClient.sig",
@@ -2983,7 +2991,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s59-WindowsClient.pak",
-    "file_size": "104500066 bytes",
+    "file_size": "104502114 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s59-WindowsClient.sig",
@@ -2991,7 +2999,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s6-WindowsClient.pak",
-    "file_size": "104493812 bytes",
+    "file_size": "104497908 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s6-WindowsClient.sig",
@@ -2999,7 +3007,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s60-WindowsClient.pak",
-    "file_size": "103155620 bytes",
+    "file_size": "103159716 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s60-WindowsClient.sig",
@@ -3015,7 +3023,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s62-WindowsClient.pak",
-    "file_size": "102952964 bytes",
+    "file_size": "102955012 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s62-WindowsClient.sig",
@@ -3039,7 +3047,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s65-WindowsClient.pak",
-    "file_size": "100740276 bytes",
+    "file_size": "100742352 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s65-WindowsClient.sig",
@@ -3063,7 +3071,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s68-WindowsClient.pak",
-    "file_size": "105272770 bytes",
+    "file_size": "105274818 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s68-WindowsClient.sig",
@@ -3079,7 +3087,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s7-WindowsClient.pak",
-    "file_size": "105756421 bytes",
+    "file_size": "105760517 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s7-WindowsClient.sig",
@@ -3095,7 +3103,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s71-WindowsClient.pak",
-    "file_size": "103292109 bytes",
+    "file_size": "103304397 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s71-WindowsClient.sig",
@@ -3111,7 +3119,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s73-WindowsClient.pak",
-    "file_size": "102340740 bytes",
+    "file_size": "102342788 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s73-WindowsClient.sig",
@@ -3119,7 +3127,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s74-WindowsClient.pak",
-    "file_size": "103725396 bytes",
+    "file_size": "103727444 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s74-WindowsClient.sig",
@@ -3127,7 +3135,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s75-WindowsClient.pak",
-    "file_size": "102581908 bytes",
+    "file_size": "102583956 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s75-WindowsClient.sig",
@@ -3151,7 +3159,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s78-WindowsClient.pak",
-    "file_size": "103603012 bytes",
+    "file_size": "103605060 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s78-WindowsClient.sig",
@@ -3159,7 +3167,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s79-WindowsClient.pak",
-    "file_size": "100121962 bytes",
+    "file_size": "100119898 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s79-WindowsClient.sig",
@@ -3167,7 +3175,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s8-WindowsClient.pak",
-    "file_size": "104486822 bytes",
+    "file_size": "104488870 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s8-WindowsClient.sig",
@@ -3175,7 +3183,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s80-WindowsClient.pak",
-    "file_size": "101799764 bytes",
+    "file_size": "101797716 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s80-WindowsClient.sig",
@@ -3183,7 +3191,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s81-WindowsClient.pak",
-    "file_size": "104913160 bytes",
+    "file_size": "104917256 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s81-WindowsClient.sig",
@@ -3191,7 +3199,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s82-WindowsClient.pak",
-    "file_size": "103977920 bytes",
+    "file_size": "103975872 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s82-WindowsClient.sig",
@@ -3199,7 +3207,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s83-WindowsClient.pak",
-    "file_size": "102634139 bytes",
+    "file_size": "102630043 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s83-WindowsClient.sig",
@@ -3207,7 +3215,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s84-WindowsClient.pak",
-    "file_size": "103221298 bytes",
+    "file_size": "103225394 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s84-WindowsClient.sig",
@@ -3231,7 +3239,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s87-WindowsClient.pak",
-    "file_size": "103176595 bytes",
+    "file_size": "103178643 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s87-WindowsClient.sig",
@@ -3239,7 +3247,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s88-WindowsClient.pak",
-    "file_size": "104802464 bytes",
+    "file_size": "104804512 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s88-WindowsClient.sig",
@@ -3247,7 +3255,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s89-WindowsClient.pak",
-    "file_size": "102399860 bytes",
+    "file_size": "102401908 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s89-WindowsClient.sig",
@@ -3255,7 +3263,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s9-WindowsClient.pak",
-    "file_size": "105779396 bytes",
+    "file_size": "105785540 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s9-WindowsClient.sig",
@@ -3279,7 +3287,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s92-WindowsClient.pak",
-    "file_size": "104693291 bytes",
+    "file_size": "104695339 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s92-WindowsClient.sig",
@@ -3295,7 +3303,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s94-WindowsClient.pak",
-    "file_size": "103432644 bytes",
+    "file_size": "103430596 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s94-WindowsClient.sig",
@@ -3311,7 +3319,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s96-WindowsClient.pak",
-    "file_size": "105359634 bytes",
+    "file_size": "105361682 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s96-WindowsClient.sig",
@@ -3319,7 +3327,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s97-WindowsClient.pak",
-    "file_size": "104840502 bytes",
+    "file_size": "104836406 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s97-WindowsClient.sig",
@@ -3327,7 +3335,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s98-WindowsClient.pak",
-    "file_size": "103588988 bytes",
+    "file_size": "103591036 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk1_s98-WindowsClient.sig",
@@ -3343,23 +3351,23 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2-WindowsClient.pak",
-    "file_size": "106770097 bytes",
+    "file_size": "106831677 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2-WindowsClient.sig",
-    "file_size": "7048 bytes",
+    "file_size": "7052 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s1-WindowsClient.pak",
-    "file_size": "105486328 bytes",
+    "file_size": "105527700 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s1-WindowsClient.sig",
-    "file_size": "6968 bytes",
+    "file_size": "6972 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s2-WindowsClient.pak",
-    "file_size": "81694112 bytes",
+    "file_size": "81690016 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s2-WindowsClient.sig",
@@ -3367,35 +3375,35 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s3-WindowsClient.pak",
-    "file_size": "97840754 bytes",
+    "file_size": "97853042 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s3-WindowsClient.sig",
-    "file_size": "6500 bytes",
+    "file_size": "6504 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s4-WindowsClient.pak",
-    "file_size": "97155058 bytes",
+    "file_size": "97912818 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s4-WindowsClient.sig",
-    "file_size": "6460 bytes",
+    "file_size": "6508 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s5-WindowsClient.pak",
-    "file_size": "95579362 bytes",
+    "file_size": "95937762 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s5-WindowsClient.sig",
-    "file_size": "6364 bytes",
+    "file_size": "6384 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s6-WindowsClient.pak",
-    "file_size": "105452807 bytes",
+    "file_size": "105624839 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s6-WindowsClient.sig",
-    "file_size": "6968 bytes",
+    "file_size": "6976 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk2_s7-WindowsClient.pak",
@@ -3415,15 +3423,15 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3-WindowsClient.pak",
-    "file_size": "102887834 bytes",
+    "file_size": "102891802 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3-WindowsClient.sig",
-    "file_size": "6808 bytes",
+    "file_size": "6812 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s1-WindowsClient.pak",
-    "file_size": "106273187 bytes",
+    "file_size": "106262947 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s1-WindowsClient.sig",
@@ -3431,7 +3439,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s10-WindowsClient.pak",
-    "file_size": "105246788 bytes",
+    "file_size": "105248836 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s10-WindowsClient.sig",
@@ -3439,7 +3447,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s11-WindowsClient.pak",
-    "file_size": "102180676 bytes",
+    "file_size": "102178628 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s11-WindowsClient.sig",
@@ -3447,7 +3455,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s12-WindowsClient.pak",
-    "file_size": "106487960 bytes",
+    "file_size": "106492056 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s12-WindowsClient.sig",
@@ -3471,7 +3479,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s2-WindowsClient.pak",
-    "file_size": "103571437 bytes",
+    "file_size": "103569389 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s2-WindowsClient.sig",
@@ -3503,7 +3511,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s6-WindowsClient.pak",
-    "file_size": "100446068 bytes",
+    "file_size": "100448116 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk3_s6-WindowsClient.sig",
@@ -3535,7 +3543,7 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk4-WindowsClient.pak",
-    "file_size": "106210382 bytes",
+    "file_size": "106216526 bytes",
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pakchunk4-WindowsClient.sig",
@@ -3551,19 +3559,19 @@
     "languages": []
   }, {
     "path": "ShooterGame/Content/Paks/pl_PL_Audio-WindowsClient.pak",
-    "file_size": "243551211 bytes",
+    "file_size": "243264619 bytes",
     "languages": [
       "all_loc", "pl_PL"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/pl_PL_Audio-WindowsClient.sig",
-    "file_size": "15396 bytes",
+    "file_size": "15376 bytes",
     "languages": [
       "all_loc", "pl_PL"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/pl_PL_Text-WindowsClient.pak",
-    "file_size": "1430259 bytes",
+    "file_size": "1438443 bytes",
     "languages": [
       "all_loc", "pl_PL"
     ]
@@ -3575,19 +3583,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/pt_BR_Audio-WindowsClient.pak",
-    "file_size": "237020728 bytes",
+    "file_size": "236771000 bytes",
     "languages": [
       "all_loc", "pt_BR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/pt_BR_Audio-WindowsClient.sig",
-    "file_size": "14996 bytes",
+    "file_size": "14980 bytes",
     "languages": [
       "all_loc", "pt_BR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/pt_BR_Text-WindowsClient.pak",
-    "file_size": "1367893 bytes",
+    "file_size": "1375646 bytes",
     "languages": [
       "all_loc", "pt_BR"
     ]
@@ -3599,31 +3607,31 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ru_RU_Audio-WindowsClient.pak",
-    "file_size": "240798465 bytes",
+    "file_size": "240538497 bytes",
     "languages": [
       "all_loc", "ru_RU"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ru_RU_Audio-WindowsClient.sig",
-    "file_size": "15228 bytes",
+    "file_size": "15212 bytes",
     "languages": [
       "all_loc", "ru_RU"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ru_RU_Text-WindowsClient.pak",
-    "file_size": "1499623 bytes",
+    "file_size": "1508048 bytes",
     "languages": [
       "all_loc", "ru_RU"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/ru_RU_Text-WindowsClient.sig",
-    "file_size": "620 bytes",
+    "file_size": "624 bytes",
     "languages": [
       "all_loc", "ru_RU"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/th_TH_Text-WindowsClient.pak",
-    "file_size": "1168177 bytes",
+    "file_size": "1175588 bytes",
     "languages": [
       "all_loc", "th_TH"
     ]
@@ -3635,19 +3643,19 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/tr_TR_Audio-WindowsClient.pak",
-    "file_size": "234606150 bytes",
+    "file_size": "234303190 bytes",
     "languages": [
       "all_loc", "tr_TR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/tr_TR_Audio-WindowsClient.sig",
-    "file_size": "14848 bytes",
+    "file_size": "14832 bytes",
     "languages": [
       "all_loc", "tr_TR"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/tr_TR_Text-WindowsClient.pak",
-    "file_size": "1316017 bytes",
+    "file_size": "1328123 bytes",
     "languages": [
       "all_loc", "tr_TR"
     ]
@@ -3659,43 +3667,43 @@
     ]
   }, {
     "path": "ShooterGame/Content/Paks/vi_VN_Text-WindowsClient.pak",
-    "file_size": "1433551 bytes",
+    "file_size": "1441813 bytes",
     "languages": [
       "all_loc", "vi_VN"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/vi_VN_Text-WindowsClient.sig",
-    "file_size": "616 bytes",
+    "file_size": "620 bytes",
     "languages": [
       "all_loc", "vi_VN"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/zh_CN_Audio-WindowsClient.pak",
-    "file_size": "226804042 bytes",
+    "file_size": "226521562 bytes",
     "languages": [
       "all_loc", "zh_CN"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/zh_CN_Audio-WindowsClient.sig",
-    "file_size": "14372 bytes",
+    "file_size": "14356 bytes",
     "languages": [
       "all_loc", "zh_CN"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/zh_CN_Text-WindowsClient.pak",
-    "file_size": "878786 bytes",
+    "file_size": "949076 bytes",
     "languages": [
       "all_loc", "zh_CN"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/zh_CN_Text-WindowsClient.sig",
-    "file_size": "584 bytes",
+    "file_size": "588 bytes",
     "languages": [
       "all_loc", "zh_CN"
     ]
   }, {
     "path": "ShooterGame/Content/Paks/zh_TW_Text-WindowsClient.pak",
-    "file_size": "888956 bytes",
+    "file_size": "893516 bytes",
     "languages": [
       "all_loc", "zh_TW"
     ]
