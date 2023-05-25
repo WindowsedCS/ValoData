@@ -1,1 +1,9 @@
-{"manifestId": "B1158BEBA8E7626F", "branch": "release-06.10", "version": "06.10.00.885592", "buildVersion": "9", "riotClientVersion": "release-06.10-shipping-9-885592", "riotClientBuild": "65.0.2.5073401.49\u0000\u0000:\r\u0001", "buildDate": "2023-5-21T00:00:00.000Z"}
+{
+    "manifestId": "B1158BEBA8E7626F",
+    "branch": "release-06.10",
+    "version": "06.10.00.885592",
+    "buildVersion": "9",
+    "riotClientVersion": "release-06.10-shipping-9-885592",
+    "riotClientBuild": "65.0.2.5073401.49",
+    "buildDate": "2023-5-21T00:00:00.000Z"
+}
