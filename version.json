@@ -1,1 +1,9 @@
-{"manifestId": "5AEC407AFE12D12E", "branch": "release-07.00", "version": "07.00.00.913116", "buildVersion": "29", "riotClientVersion": "release-07.00-shipping-29-913116", "riotClientBuild": "67.0.8.154.1064", "buildDate": "2023-06-28T00:00:00.000Z"}
+{
+    "manifestId": "CCAFF479EAD7AE5C",
+    "branch": "release-07.03",
+    "version": "07.03.00.953184",
+    "buildVersion": "11",
+    "riotClientVersion": "release-07.03-shipping-11-953184",
+    "riotClientBuild": "70.0.0.247.1382",
+    "buildDate": "2023-08-14T00:00:00.000Z"
+}
